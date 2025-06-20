@@ -14,7 +14,7 @@ public class Revarr {
         reverse(arr, k,n-1);
         System.out.println(Arrays.toString(arr));
 
-    }
+    }// to rotate right
     static void reverse(int arr[] , int start , int end){
         while(start<end){
             int temp = arr[start];
