@@ -20,8 +20,8 @@ public class Leader {
                     break;
                 }
             }
-                if(j==n)
-                    result.add(arr[i]);
+            if(j==n)
+                result.add(arr[i]);
 
 
 
